@@ -1,5 +1,7 @@
 # AI-Powered-Crime-prediction-system-with-heatmap
-This repository folder comprises of the project that works on crime prediction system with the help of heatmap  
+This repository folder comprises of the project that works on crime prediction system with the help of heatmap ,
+The application helps the user informed about the crime prediction analysis based on available recorded official data of crimes , with this users 
+can assess the probabilistic assessment of the crime , it doesn't however shows the certainty of the crime that will be taking place .
 # AI-Sentinels — Crime Prediction Dashboard
 
 A Streamlit-based crime analytics and AI prediction dashboard for India.
