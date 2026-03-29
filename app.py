@@ -9,6 +9,7 @@ import plotly.graph_objects as go
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
 import warnings
+from streamlit_folium import st_folium
 warnings.filterwarnings("ignore")
 
 # ─────────────────────────────────────────────
