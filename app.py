@@ -10,6 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
 import warnings
 from streamlit_folium import st_folium
+st_folium(mymap)
 warnings.filterwarnings("ignore")
 
 # ─────────────────────────────────────────────
